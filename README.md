@@ -61,14 +61,14 @@ Customers were divided into three tiers using SQL’s `NTILE(3)` function based 
 
 ## Files Included
 
-'''customer-segmentation-analysis/
+```customer-segmentation-analysis/
 ├── analysis.ipynb
 ├── queries.sql
 ├── revenue_by_segment.png
 ├── customer_count_by_segment.png
 └── data/
 └── customer_segments_labeled.csv
-'''
+```
 
 ---
 
